@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, i'am Sathvik 
-🎓 B.Tech Computer Science Engineering graduate passionate about software development.<br><br>☕ Skilled in Java programming, Core Java, and Object-Oriented Programming (OOP).<br><br>🗄️ Knowledge of SQL and MySQL for database management and data manipulation.<br><br>🌐 Familiar with HTML, CSS, and JavaScript for web development.<br><br>💻 Interested in problem-solving, logical thinking, and writing clean, efficient code.<br><br>📚 Developed a Learning Management System (LMS) to provide an interactive platform for online learning and course management.<br><br>🎯 Aspiring Software Developer looking for opportunities to apply my technical skills to real-world projects.<br><br>⚡ Believe in continuous learning, consistency, and improving a little every day.
+<br><br>🎓 B.Tech Computer Science Engineering graduate passionate about software development.<br><br>☕ Skilled in Java programming, Core Java, and Object-Oriented Programming (OOP).<br><br>🗄️ Knowledge of SQL and MySQL for database management and data manipulation.<br><br>🌐 Familiar with HTML, CSS, and JavaScript for web development.<br><br>💻 Interested in problem-solving, logical thinking, and writing clean, efficient code.<br><br>📚 Developed a Learning Management System (LMS) to provide an interactive platform for online learning and course management.<br><br>🎯 Aspiring Software Developer looking for opportunities to apply my technical skills to real-world projects.<br><br>⚡ Believe in continuous learning, consistency, and improving a little every day.
 
 
 ## 🌐 Socials:
